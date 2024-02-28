@@ -14,6 +14,7 @@ use Inertia\Response;
 
 class AuthenticatedSessionController extends Controller
 {
+    
     /**
      * Display the login view.
      */
